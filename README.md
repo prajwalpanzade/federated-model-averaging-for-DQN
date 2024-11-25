@@ -19,28 +19,6 @@ Use:
 The plots are saved in the plots/ folder.
 
 
-## Results:
-
-* For CartPole environment:
-
-<p align="center">
- <img  width="640" height="490" src="plots/CartPole-v0_3plot.png">
-</p>
-
-* For Acrobot environment:
-
-<p align="center">
- <img  width="640" height="490" src="plots/Acrobot-v1_3plot.png">
-</p>
-
-* For LunarLander environment:
-
-<p align="center">
- <img  width="640" height="490" src="plots/LunarLander-v2_3plot.png">
-</p>
-
-
-
 
 
 
